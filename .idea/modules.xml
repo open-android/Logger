@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Logger.iml" filepath="$PROJECT_DIR$/Logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/logger/logger.iml" filepath="$PROJECT_DIR$/logger/logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loggerdemo2/loggerdemo2.iml" filepath="$PROJECT_DIR$/loggerdemo2/loggerdemo2.iml" />
     </modules>
   </component>
 </project>
